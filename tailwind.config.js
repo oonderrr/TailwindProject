@@ -8,6 +8,7 @@ module.exports = {
     },
 
     screens:{
+      md: "768px",
       lg: "1140px",
       xl: "1140px",
       "2xl": "1140px"
@@ -25,6 +26,10 @@ module.exports = {
         "gega-gery" : "#DDDDDD",
         "gega-white" : "#F7F7F7"
       },
+
+      spacing:{
+        "128": "32rem"
+      }
     },
   },
   plugins: [],
